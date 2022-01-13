@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="CNCNC.svg"
+   inkscape:export-filename="F:\作品\CNCNC.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2737504"
+     inkscape:cx="204.51416"
+     inkscape:cy="215.50533"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="text1574"
+       style="font-style:normal;font-weight:normal;font-size:493.111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.3278"
+       d="m 148.34857,150.00016 c -25.35279,0 -47.27282,8.65843 -65.760847,25.97413 l 24.396957,24.39747 c 11.07774,-10.6722 25.19079,-16.01142 42.34264,-16.01142 32.13046,0 59.53097,21.64292 82.2017,64.92885 l 23.33759,39.61929 c 26.5212,40.72007 58.45416,61.09136 95.80605,61.09136 25.62632,0 47.78534,-8.74566 66.48172,-26.22579 l -24.93079,-24.93181 c -10.96425,10.54109 -25.03119,16.02777 -42.28475,16.32355 -31.96736,-0.31596 -59.36787,-22.03758 -82.2017,-65.16553 l -25.37674,-43.08161 0.14986,-0.0884 c -24.97258,-37.84184 -56.34467,-56.83012 -94.16169,-56.83012 z m 202.32409,0.2372 c -35.76349,0 -67.33442,20.02981 -94.71981,60.05473 l 17.65732,29.97595 c 23.36401,-37.08233 48.80335,-55.67051 76.32867,-55.67051 17.61466,0 32.29348,6.24006 44.03659,18.72031 11.7431,12.32227 17.61495,27.64592 17.61495,45.97135 0,16.97786 -4.36078,31.18019 -13.07671,42.61032 l 25.20775,25.2088 c 17.51007,-19.2159 26.27849,-41.81914 26.27849,-67.81912 0,-28.75197 -9.21517,-52.44885 -27.64533,-71.09023 -18.26707,-18.64139 -42.16106,-27.9616 -71.68192,-27.9616 z M 76.026366,182.6452 c -17.349874,19.12837 -26.026318,41.81642 -26.026318,68.06561 0,29.06792 9.133847,52.84402 27.400911,71.32743 18.430163,18.32543 42.079121,27.48772 70.947611,27.48772 35.58463,0 67.26582,-20.14002 95.05207,-60.37977 l -17.70538,-30.0576 c -22.96601,36.87849 -48.4177,55.36665 -76.36794,55.36665 -17.61467,0 -32.37533,-6.00344 -44.28154,-18.00976 -11.743109,-12.16429 -17.614425,-27.40924 -17.614425,-45.73467 0,-17.27303 4.440862,-31.71912 13.317535,-43.34206 z" />
+  </g>
+</svg>
